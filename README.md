@@ -130,20 +130,6 @@ process_video('path_to_input_video.mp4', 'output.mp4', input_face_encoding)
 - **Deep Learning Models:** InceptionResnetV1, Haar Cascade
 - **Optimization:** CUDA for GPU acceleration
 
-## Project Structure
-
-```
-.
-├── README.md
-├── requirements.txt
-├── main.py
-├── preprocess.py
-├── utils.py
-└── examples
-    ├── input_image.png
-    ├── input_video.mp4
-    └── output_video.mp4
-```
 
 
 
